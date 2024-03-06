@@ -1,5 +1,5 @@
-# chatbot-list   
-行业内关于智能客服、聊天机器人的应用和架构、算法分享和介绍 ( last update: 2022年04月28日）
+# chatbot-tech-list   
+行业内关于智能客服、聊天机器人的应用和架构、算法分享和介绍  base on [chatbot-list](https://github.com/lizhe2004/chatbot-list)
 
  <img src="qrcode.jpg" height = "600" div align=right />
  
